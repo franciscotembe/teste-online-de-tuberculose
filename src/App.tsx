@@ -1,7 +1,7 @@
 import React, { useState, useRef } from 'react';
 import { Upload, Loader } from 'lucide-react';
 
-const MAX_FILE_SIZE = 10 * 1024 * 1024; // 5MB
+const MAX_FILE_SIZE = 10 * 1024 * 1024; // 10MB
 const ALLOWED_TYPES = ['image/jpeg', 'image/png', 'image/jpg', 'image/webp'];
 const API_TIMEOUT = 300000; // 30 segundos
 const API_URL = 'https://8004-01jmw8ynkyfpm5jpz096pk52m6.cloudspaces.litng.ai/predict/';
