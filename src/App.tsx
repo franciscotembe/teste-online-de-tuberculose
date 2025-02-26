@@ -131,7 +131,7 @@ function App() {
     <div className="min-h-screen bg-gray-50">
       <nav className="bg-blue-600 text-white p-4 shadow-lg">
         <h1 className="text-2xl font-bold text-center">
-          Análise de Tuberculose por IA
+          Análise de Tuberculose por IA's
         </h1>
       </nav>
 
